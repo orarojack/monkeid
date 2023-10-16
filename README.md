@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - [![GitHub Streak](https://streak-stats.demolab.com/?user=monkeid)](https://git.io/streak-stats)
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monkeid&show_icons=true&theme=transparent)
 
 <!---
 monkeid/monkeid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
