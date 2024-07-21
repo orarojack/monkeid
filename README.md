@@ -17,6 +17,8 @@
 - 📫 How to reach me **jackoraro0@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+- UserName: clipkenya
+| PassWord: T-qt6O__1u0s
 
   
 
